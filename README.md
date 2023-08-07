@@ -8,9 +8,9 @@ In the evolving landscape of online retail, a troubling trend has emerged – cu
 ## High-Level Architecture
 
 Our chosen approach to address this issue is the Bagging Random Forest technique. Bagging Random Forest is an ensemble learning method that combines multiple decision trees, each trained on different data subsets (Bagging). This technique introduces feature randomness by considering only random feature subsets at each tree split (Random Forest). The final prediction is derived through voting (classification) or averaging (regression) of individual tree outputs. This approach mitigates overfitting, enhances accuracy, and strengthens model robustness.
-![image](https://github.com/gitteamno56/team_56/assets/141602742/125e5bb3-8012-4e70-bf13-d01cef136e87)
+![image](https://github.com/gitteamno56/team_56/assets/141602742/724b1e85-f9db-4c03-afaa-44cf56312603)
 
-![image](https://github.com/gitteamno56/team_56/assets/141602742/b324eb47-e0f4-468f-984f-48501c6ad898)
+![image](https://github.com/gitteamno56/team_56/assets/141602742/4ea72316-8387-4421-91a7-ceca3bfd009f)
 
 
 ## Implementation 
